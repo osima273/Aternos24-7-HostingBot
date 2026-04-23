@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "survivalworld-dRNF.aternos.me",
-    "port": 44019,
+    "ip": "osimatrosi-Bu2K.aternos.me:18510",
+    "port": 18510,
     "version": "",
     "try-creative": false
   },
